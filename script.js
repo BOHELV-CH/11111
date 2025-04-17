@@ -118,7 +118,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 background-color: #fff;
                 border-radius: 12px;
                 width: 85%;
-                max-width: 400px;
+                max-width: 360px;
                 overflow: hidden;
             }
             
